@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL演讲比赛流程管理", "STL演讲比赛流程管理\STL演讲比赛流程管理.vcxproj", "{11B809D0-66B4-42BB-8BD3-23A72878CD06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11B809D0-66B4-42BB-8BD3-23A72878CD06}.Debug|x64.ActiveCfg = Debug|x64
+		{11B809D0-66B4-42BB-8BD3-23A72878CD06}.Debug|x64.Build.0 = Debug|x64
+		{11B809D0-66B4-42BB-8BD3-23A72878CD06}.Debug|x86.ActiveCfg = Debug|Win32
+		{11B809D0-66B4-42BB-8BD3-23A72878CD06}.Debug|x86.Build.0 = Debug|Win32
+		{11B809D0-66B4-42BB-8BD3-23A72878CD06}.Release|x64.ActiveCfg = Release|x64
+		{11B809D0-66B4-42BB-8BD3-23A72878CD06}.Release|x64.Build.0 = Release|x64
+		{11B809D0-66B4-42BB-8BD3-23A72878CD06}.Release|x86.ActiveCfg = Release|Win32
+		{11B809D0-66B4-42BB-8BD3-23A72878CD06}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDBEB45A-0B7A-4279-A0C6-7F2194B35B4A}
+	EndGlobalSection
+EndGlobal
